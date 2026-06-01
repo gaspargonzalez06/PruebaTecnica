@@ -1,0 +1,6 @@
+@PruebaTecnica.Api_HostAddress = http://localhost:5168
+
+GET {{PruebaTecnica.Api_HostAddress}}/api/health
+Accept: application/json
+
+###

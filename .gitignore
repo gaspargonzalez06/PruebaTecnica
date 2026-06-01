@@ -1,0 +1,7 @@
+# Frontend
+frontend/pruebatecnica-frontend/node_modules/
+frontend/pruebatecnica-frontend/dist/
+
+# .NET
+**/bin/
+**/obj/
