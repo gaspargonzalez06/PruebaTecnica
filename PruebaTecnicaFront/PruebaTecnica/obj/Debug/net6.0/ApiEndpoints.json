@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PruebaTecnica.Controllers.PostController",
+    "Method": "GetPosts",
+    "RelativePath": "api/Post/full-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

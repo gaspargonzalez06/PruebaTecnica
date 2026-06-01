@@ -1,0 +1,73 @@
+﻿using PruebaTecnica.DTO;
+using PruebaTecnica.Models;
+
+namespace PruebaTecnica.Services
+{
+
+
+
+
+
+    public class JsonPlaceHolderService : IJsonHolderService
+    {
+
+
+       
+        public readonly IJsonHolderService JsonHolderService;
+        public readonly HttpClient HttpClient;  
+
+      
+      
+        public JsonPlaceHolderService(IJsonHolderService jsonHolderService, HttpClient httpClient)
+        {
+            JsonHolderService = jsonHolderService;
+            HttpClient = httpClient;
+        }
+
+
+        public async Task<List<PostsWhitAllData>> GetPostsWhitFullData()
+        {
+
+            try
+            {
+                var taskPost = HttpClient.GetFromJsonAsync<List<Posts>>("posts");
+                var taskComments = HttpClient.GetFromJsonAsync<List<Comments>>("comments");
+                var taskUsers = HttpClient.GetFromJsonAsync<List<Users>>("users");
+
+                await Task.WhenAll(taskPost, taskComments, taskUsers);
+
+                var post = await taskPost ?? new List<Posts>();
+                var comments = await taskComments ?? new List<Comments>();
+                var users = await taskUsers ?? new List<Users>();
+
+                var userDict = users.ToDictionary(u => u.id);
+
+                var commentsDict = comments.GroupBy(c => c.postId)
+                    .ToDictionary(g => g.Key, g => g.ToList());
+
+                var result = post.Select(p => new PostsWhitAllData
+                {
+                    id = p.id,
+                    Tittle = p.title,
+                    Body = p.body,
+                    Author = userDict.ContainsKey(p.userId) ? userDict[p.userId].name : "Unknown",
+                    Comments = commentsDict.ContainsKey(p.id) ? commentsDict[p.id].Select(c => new CommentsDTO
+                    {
+                        name = c.name,
+                        email = c.email,
+                        body = c.body
+                    }).ToList() : new List<CommentsDTO>()
+                }).ToList();
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error al obtener los datos: {ex.Message}");
+                return new List<PostsWhitAllData>();
+            }
+
+        }
+
+    }
+}
