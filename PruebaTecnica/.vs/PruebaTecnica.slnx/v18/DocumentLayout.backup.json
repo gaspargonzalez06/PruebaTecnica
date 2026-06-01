@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\services\\jsonplaceholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\jsonplaceholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\config\\placeholderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\config\\placeholderconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\services\\ijsonholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\ijsonholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\models\\postswhitalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\postswhitalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\ggonzalez\\source\\repos\\pruebatecnica\\pruebatecnica\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7947E0-BCCE-4C9B-9392-6438A55EF178}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:45:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonPlaceHolderService.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Services\\JsonPlaceHolderService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\JsonPlaceHolderService.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Services\\JsonPlaceHolderService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\JsonPlaceHolderService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:29:42.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJsonHolderService.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Services\\IJsonHolderService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\IJsonHolderService.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Services\\IJsonHolderService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\IJsonHolderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:28:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\DTO\\CommentsDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\DTO\\CommentsDTO.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\DTO\\CommentsDTO.cs",
+              "RelativeToolTip": "PruebaTecnica\\DTO\\CommentsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:26:05.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostsWhitAllData.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\PostsWhitAllData.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\PostsWhitAllData.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\PostsWhitAllData.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\PostsWhitAllData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:23:07.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Posts.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Posts.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Posts.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Posts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:22:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Users.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Users.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:22:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Comments.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Models\\Comments.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:22:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.Development.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T18:20:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T18:17:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceHolderConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Config\\PlaceHolderConfig.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Config\\PlaceHolderConfig.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Config\\PlaceHolderConfig.cs",
+              "RelativeToolTip": "PruebaTecnica\\Config\\PlaceHolderConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:17:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\ggonzalez\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Controllers\\PostController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T18:16:16.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
