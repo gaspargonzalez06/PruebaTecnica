@@ -1,0 +1,30 @@
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+.card {
+  margin-top: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fafafa;
+}
+
+.info {
+  color: #333;
+}
+
+.error {
+  color: #b42318;
+}
